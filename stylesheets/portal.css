@@ -2,6 +2,8 @@ ul
 {
 list-style: none;
 font-family: verdana;
+letter-spacing: 4px;
+font-size: 25px;
 }
 
 a{
