@@ -11,8 +11,13 @@ a{
   color: #008080;
 }
 
-h6
-{
+footer h6{
+  color: #008080;
+  font-size: 15px;
+  font-family: verdana;
+}
+
+footer h6 a{
   color: orange;
   font-size: 15px;
   font-family: verdana;
