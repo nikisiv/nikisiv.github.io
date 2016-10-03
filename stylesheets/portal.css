@@ -1,0 +1,15 @@
+ul
+{
+list-style: none;
+font-family: verdana;
+}
+
+a{
+  text-decoration: none;
+  color: #008080;
+}
+
+h6
+{
+  color: #008080;
+}
