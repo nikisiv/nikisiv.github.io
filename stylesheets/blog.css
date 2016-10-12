@@ -49,6 +49,7 @@ table {
 }
 
 /*end of reset*/
+
 section{
   width: 960px;
 }
@@ -59,6 +60,9 @@ header img{
 img{
   padding: 10px 0px 10px 10px;
 }
+
+/* start styling class Post02 */
+
 .Post02{
   padding: 10px;
   width: 470px;
@@ -90,8 +94,10 @@ img{
   color: #00579B;
 }
 
-.Post02 p: last-child{
+.Post02 p:last-child{
 font-size: 15px;
 font-family: 'Josefin Sans', sans-serif;
 color: #AFB436;
 }
+
+/* end styling class Post02 */
