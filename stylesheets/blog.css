@@ -52,6 +52,7 @@ table {
 
 section{
   width: 960px;
+  margin: auto;
 }
 
 header img{
@@ -69,7 +70,7 @@ img{
   height: 201px;
   float: right;
   margin-top: 10px;
-  background-color: #F9FBE7;
+  background-color: #F0F4C3;
   margin-right: 10px;
 
 }
