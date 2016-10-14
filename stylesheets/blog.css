@@ -105,6 +105,10 @@ font-family: 'Josefin Sans', sans-serif;
 color: #00579b;
 }
 
+.Post-02 p a{
+	text-decoration: none;
+}
+
 /* end styling class Post-02 */
 
 /*start styling Post-01*/
