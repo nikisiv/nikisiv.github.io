@@ -143,6 +143,10 @@ color: #00579b;
 .Post-01 figcaption h4{
 	color: #00579b;
 }
+
+.Post-01 a{
+	text-decoration: none;
+}
 /* end styling Post-01 */
 
 /*start styling Post-00*/
