@@ -28,5 +28,12 @@ section header img{
 section img{
   width: 600px;
   margin-left: 50px;
+}
 
+section span h3{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  color: #B0B535;
+  padding: 28px 50px 10px 50px;
+  float: right;
 }
