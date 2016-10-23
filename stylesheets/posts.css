@@ -13,11 +13,13 @@ section h3{
 }
 
 section p{
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 18px;
   color: #B0B535;
   margin: auto;
   padding: 10px 50px 10px 50px;
+  font-weight: 100;
+  line-height: 1.5;
 }
 
 section header img{
