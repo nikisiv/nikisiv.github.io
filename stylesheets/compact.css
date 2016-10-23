@@ -61,7 +61,7 @@ main{
 .main-row{
   width: 960px;
   background-color: #B0B535;
-  display: flex;
+	display: flex;
   margin-top: 10px;
 }
 .main-row img{
@@ -152,6 +152,7 @@ ul li a{
 	text-decoration: none;
 	color: #B0B535;
 }
+
 footer span a{
 	 float: right;
 	 text-decoration: none;
