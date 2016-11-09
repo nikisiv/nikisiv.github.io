@@ -134,6 +134,28 @@ main{
 .item-two a{
   text-decoration: none;
 }
+
+.item-three{
+  float: left;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.item-three figcaption{
+  width: 280px;
+  background-color: #B0B535;
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 10px;
+}
+.item-three h3{
+  font-size: 18px;
+  padding-bottom: 5px;
+}
+.item-three p{
+  padding-bottom: 5px;
+}
+.item-three a{
+  text-decoration: none;
+}
 /* Second Row */
 /*Footer*/
 footer{
