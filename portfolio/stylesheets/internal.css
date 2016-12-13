@@ -483,6 +483,11 @@ video{
 	margin-bottom: 4%;
 }
 
+a{
+	text-decoration: none;
+	color: #000000;
+}
+
 footer{
 	border-top: 2px solid black;
 	padding-top: 4%;
