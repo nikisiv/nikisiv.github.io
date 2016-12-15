@@ -73,9 +73,9 @@ hr{
 nav{
   margin-left: 0;
 	margin-bottom: 4%;
-	border-left: 2px solid #ffd54f;
+	/*border-left: 2px solid #ffd54f;*/
 	padding-left: 2%;
-	margin-bottom: 8%;
+	/*margin-bottom: 8%;*/
 
 }
 
@@ -84,14 +84,19 @@ nav ul li{
 	display: inline-block
 	margin-top: 2%;
 	margin-bottom: 1%;
+	border-right: 4px solid #ffd54f;
+	padding-right: 2%;
+	padding-left: 2%;
 }
+
+
 
 nav ul li a{
 	text-decoration: none;
 	color: #000000;
 	font-family: gill sans,sans-serif;
 	font-weight: lighter;
-	font-size: 0.9em;
+	font-size: 1em;
 }
 /*For mobile*/
 
@@ -102,7 +107,7 @@ nav ul li a{
 	nav{
 	  margin-left: 0;
 		margin-bottom: 4%;
-		border-left: 4px solid #ffd54f;
+		/*border-left: 4px solid #ffd54f;*/
 		padding-left: 2%;
 		margin-bottom: 8%;
 
@@ -118,7 +123,11 @@ nav ul li a{
 		color: #000000;
 		font-family: gill sans,sans-serif;
 		font-weight: lighter;
-		font-size: 0.9em;
+		font-size: 1.2em;
+	}
+
+	nav ul li:nth-child(6){
+		border-right: none;
 	}
 }
 /*For tablet and above*/
@@ -219,7 +228,7 @@ nav ul li a{
 
 .description p{
 	font-family: gill sans, sans-serif;
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: lighter;
 	line-height: 1.2em;
 	width: 27%;
@@ -237,7 +246,7 @@ nav ul li a{
 
 .description-bookmark p{
 	font-family: gill sans, sans-serif;
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: lighter;
 	line-height: 1.2em;
 	width: 27%;
@@ -255,7 +264,7 @@ nav ul li a{
 
 .description-rec p{
 	font-family: gill sans, sans-serif;
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: lighter;
 	line-height: 1.2em;
 	width: 27%;
@@ -304,7 +313,7 @@ h3{
 .problem p{
 	width: 80%;
 	font-family: gill sans, sans-serif;
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: lighter;
 	line-height: 1.2em;
 	padding-bottom: 4%;
@@ -315,7 +324,7 @@ h3{
 .problem-corner p{
 	width: 75%;
 	font-family: gill sans, sans-serif;
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: lighter;
 	line-height: 1.2em;
 	padding-bottom: 4%;
@@ -361,7 +370,7 @@ h3{
 
 .problem p{
 	font-family: gill sans, sans-serif;
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: lighter;
 	line-height: 1.2em;
 	width: 37%;
@@ -402,7 +411,7 @@ h3{
 @media(min-width: 800px){
 .problem p{
 	font-family: gill sans, sans-serif;
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: lighter;
 	line-height: 1.2em;
 	width: 37%;
@@ -424,7 +433,7 @@ h3{
 
 .product p{
 	font-family: gill sans, sans-serif;
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: lighter;
 	line-height: 1.2em;
 	margin-bottom: 4%;
@@ -459,7 +468,7 @@ margin-right: 1%;
 
 .process p{
 	font-family: gill sans, sans-serif;
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: lighter;
 	line-height: 1.2em;
 	margin-bottom: 4%;
@@ -468,7 +477,7 @@ margin-right: 1%;
 
 .usertest p{
 	font-family: gill sans, sans-serif;
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: lighter;
 	line-height: 1.2em;
 	margin-bottom: 4%;
